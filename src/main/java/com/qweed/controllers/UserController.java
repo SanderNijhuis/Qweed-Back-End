@@ -1,7 +1,7 @@
-package com.qweed.qweed.controllers;
+package com.qweed.controllers;
 
-import com.qweed.qweed.logic.UserCollection;
-import com.qweed.qweed.models.User;
+import com.qweed.logic.UserCollection;
+import com.qweed.models.User;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

@@ -1,11 +1,10 @@
-package com.qweed.qweed.models;
+package com.qweed.models;
 
 import lombok.Getter;
 import lombok.Setter;
 
 import javax.persistence.*;
 import javax.validation.constraints.NotNull;
-import java.util.*;
 
 @Entity
 @Table(name = "users")

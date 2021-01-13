@@ -1,8 +1,8 @@
-package com.qweed.qweed.logic;
+package com.qweed.logic;
 
-import com.qweed.qweed.interfaces.IUserRepository;
-import com.qweed.qweed.interfaces.collections.IUserCollection;
-import com.qweed.qweed.models.User;
+import com.qweed.interfaces.IUserRepository;
+import com.qweed.interfaces.collections.IUserCollection;
+import com.qweed.models.User;
 import org.springframework.stereotype.Service;
 
 import java.util.List;

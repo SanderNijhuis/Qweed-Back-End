@@ -1,7 +1,7 @@
-package com.qweed.qweed;
+package com.qweed;
 
-//import com.qweed.qweed.interfaces.IMedicineRepository;
-import com.qweed.qweed.interfaces.IUserRepository;
+//import com.qweed.interfaces.IMedicineRepository;
+import com.qweed.interfaces.IUserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

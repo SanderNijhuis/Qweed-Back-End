@@ -1,6 +1,6 @@
-package com.qweed.qweed.interfaces.collections;
+package com.qweed.interfaces.collections;
 
-import com.qweed.qweed.models.User;
+import com.qweed.models.User;
 
 import java.util.List;
 import java.util.Optional;
